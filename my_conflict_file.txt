@@ -1,1 +1,1 @@
-my conflict file
+my test file
