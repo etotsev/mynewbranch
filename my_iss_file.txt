@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my_iss_file.txt
+=======
+my iss file
+>>>>>>> iss50
